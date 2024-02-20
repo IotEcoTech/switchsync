@@ -1,2 +1,2 @@
-# switchsync
-Switch Sync
+# Switch Sync
+
